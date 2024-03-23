@@ -1,0 +1,7 @@
+.item {
+     list-style-type: none;
+     margin-bottom: 10px;
+}
+.item:last-child {
+    margin-right: 0;
+}
